@@ -8,6 +8,7 @@ The Azure AKS SRE engagement team has a playlist rotation to help us stay connec
 
 - [4/7/2020](https://open.spotify.com/user/benlbp/playlist/4WqwHZ6jjBwsUMV8uvZU3h)
 - [5/5/2020](https://open.spotify.com/playlist/0DS6lty8QZUwPr7wQKohro)
+- [6/16/2020](https://open.spotify.com/playlist/4dv65GzQzt33b694efWTTC)
 
 ### Bill Johnson
 
