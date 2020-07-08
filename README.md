@@ -24,6 +24,7 @@ The Azure AKS SRE engagement team has a playlist rotation to help us stay connec
 ### John Stupka
 
 - [4/10/2020](https://open.spotify.com/playlist/5VtNDhCdZbbSxxluE6cvUI)
+- [6/30/2020](https://open.spotify.com/playlist/3dr1ZW0MKumjudgEjfjbaz) ([additional horror podcast](https://open.spotify.com/episode/2SpWBV4kAhVNoLxANQhROO))
 
 ### Martin Diko
 
@@ -47,3 +48,4 @@ The Azure AKS SRE engagement team has a playlist rotation to help us stay connec
 
 - [4/17/2020](https://youtu.be/pcVRrlmpcWk)
 - [5/19/2020](https://open.spotify.com/playlist/0fjPOn1R1Oy708edY5feGs)
+- [7/8/2020](https://open.spotify.com/playlist/2lWnLrtYDLqTI3e1wvs16N)
