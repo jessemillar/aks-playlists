@@ -21,6 +21,7 @@ The Azure AKS SRE engagement team has a playlist rotation to help us stay connec
 - [4/3/2020](https://jessemillar.com/r/spotify/4-3-2020)
 - [4/24/2020](https://jessemillar.com/r/spotify/4-24-2020)
 - [6/2/2020](https://jessemillar.com/r/spotify/6-2-2020)
+- [8/4/2020](https://open.spotify.com/playlist/3ZLBt48OK8XTCxHB8CoZyO)
 
 ### John Stupka
 
