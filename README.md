@@ -6,7 +6,7 @@ The Azure AKS SRE engagement team has a playlist rotation to help us stay connec
 
 ### Ariel Silverman
 
-- [2/9/2020](https://open.spotify.com/playlist/3o3bV3BgffJUhoQEDC7TOz)
+- [2/9/2021](https://open.spotify.com/playlist/3o3bV3BgffJUhoQEDC7TOz)
 
 ### Ben Broderick Phillips
 
