@@ -59,6 +59,7 @@ The Azure AKS SRE engagement team has a playlist rotation to help us stay connec
 ### Richard Clawson
 
 - [6/22/2020](https://open.spotify.com/playlist/7LKXx7HjMLJlfwnPOKbYtA)
+- [4/13/2021](https://open.spotify.com/playlist/5m6fZjJZXowi9SDc5wxhA3)
 
 ### Spoorthi Gururaj
 
